@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Moisés  
+# 👋 Hi, I'm Moises Lugo
 
 🚀 Frontend Developer transitioning to Full Stack. Passionate about **clean code**, **architecture**, **performance**, and **best practices**.  
 Open to opportunities where I can contribute, grow, and build impactful projects.  
@@ -14,6 +14,7 @@ Open to opportunities where I can contribute, grow, and build impactful projects
 ### Backend (Learning & Building)  
 - **Languages & Frameworks:** Node.js, Express  
 - **Databases:** SQL, MongoDB  
+- **Containers:** Docker  
 
 ### Tools  
 - Git & GitHub  
@@ -35,4 +36,4 @@ Open to opportunities where I can contribute, grow, and build impactful projects
 ---
 
 ## ✨ Let’s Connect  
-📫 [LinkedIn](https://linkedin.com/) | 🌐 [Portfolio](https://yourportfolio.com)  
+📫 [LinkedIn](www.linkedin.com/in/moises-lugo-352b892a4) | 🌐 [Portfolio](#)  
