@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Moisés  
 
-<!--
-**moiseslugo-04/moiseslugo-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer transitioning to Full Stack. Passionate about **clean code**, **architecture**, **performance**, and **best practices**.  
+Open to opportunities where I can contribute, grow, and build impactful projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+
+### Frontend  
+- **Languages:** HTML, CSS, JavaScript  
+- **Frameworks & Libraries:** React, Tailwind CSS, Zustand, Zod  
+
+### Backend (Learning & Building)  
+- **Languages & Frameworks:** Node.js, Express  
+- **Databases:** SQL, MongoDB  
+
+### Tools  
+- Git & GitHub  
+
+---
+
+## 🌍 Languages  
+- **Spanish:** Native  
+- **Portuguese:** Intermediate  
+- **English:** Intermediate  
+
+---
+
+## 📌 What I Focus On  
+✔️ Writing clean and maintainable code  
+✔️ Scalable and performant architectures  
+✔️ Continuous learning & real-world problem solving  
+
+---
+
+## ✨ Let’s Connect  
+📫 [LinkedIn](https://linkedin.com/) | 🌐 [Portfolio](https://yourportfolio.com)  
