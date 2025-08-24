@@ -36,4 +36,4 @@ Open to opportunities where I can contribute, grow, and build impactful projects
 ---
 
 ## ✨ Let’s Connect  
-📫 [LinkedIn](www.linkedin.com/in/moises-lugo-352b892a4) | 🌐 [Portfolio](#)  
+📫 [LinkedIn](https://www.linkedin.com/in/moises-lugo-352b892a4/) | 🌐 [Portfolio](#)  
