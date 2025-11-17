@@ -49,7 +49,7 @@ I enjoy working with **Next.js, React, and TypeScript**, and I’m currently exp
 A complete blog platform with authentication, markdown support, and modern UI using Shadcn + Tailwind CSS.  
 Planning to implement an **AI SDK** that will summarize and answer questions about blog posts.  
 
-### 🛍️ [E-commerce (in progress)](#)  
+### 🛍️ [E-commerce (in progress)](https://gechis.com)  
 A full e-commerce platform built with **Next.js**, **Prisma**, and **dynamic routing**, featuring SEO-friendly URLs and product filters.  
 
 ---
