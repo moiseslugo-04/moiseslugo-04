@@ -56,7 +56,7 @@ A full e-commerce platform built with **Next.js**, **Prisma**, and **dynamic rou
 
 ## ✨ Let’s Connect  
 📫 [LinkedIn](https://www.linkedin.com/in/moises-lugo-352b892a4/)  
-🌐 [Blog](https://mini-blog-seven-mocha.vercel.app/)  
+🌐 [Blog](https://blog.moiseslugo.com/)  
 
 ---
 
