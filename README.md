@@ -45,7 +45,7 @@ I enjoy working with **Next.js, React, and TypeScript**, and I’m currently exp
 
 ## 🚀 Featured Projects  
 
-### 📝 [Personal Blog – Next.js 14 + Prisma + Server Actions](https://mini-blog-seven-mocha.vercel.app/)  
+### 📝 [Personal Blog – Next.js 14 + Prisma + Server Actions](https://blog.moiseslugo.com/)  
 A complete blog platform with authentication, markdown support, and modern UI using Shadcn + Tailwind CSS.  
 Planning to implement an **AI SDK** that will summarize and answer questions about blog posts.  
 
