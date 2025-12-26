@@ -1,63 +1,63 @@
-# 👋 Hi, I'm Moisés Lugo
+# 👋 Hi, I’m Moisés Lugo
 
-🚀 **Frontend Developer** transitioning to **Full Stack**, passionate about building modern, scalable, and user-focused web applications.  
-I enjoy working with **Next.js, React, and TypeScript**, and I’m currently expanding my backend skills with **Prisma** and **Server Actions**.  
+🚀 **Frontend Developer** with a strong interest in **full-stack development**, passionate about building modern, scalable, and user-focused web applications.  
+I work mainly with **Next.js, React, and TypeScript**, and I’m expanding my backend experience using **Prisma** and **Server Actions**.
 
-💡 I love writing **clean, maintainable code**, focusing on **performance**, **architecture**, and **best practices** to create reliable products that scale.  
+💡 I enjoy writing **clean, maintainable code**, with a strong focus on **performance**, **architecture**, and **best practices**, aiming to build reliable and scalable products.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### ⚛️ Frontend  
-- **Languages:** HTML, CSS, JavaScript, TypeScript  
-- **Frameworks & Libraries:** Next.js, React, Tailwind CSS, Shadcn UI, Zustand, Zod  
-- **State & Data:** RTK Query, TanStack Query, React Hook Form  
+### ⚛️ Frontend
+- **Core:** Next.js, React, TypeScript, JavaScript  
+- **Styling & UI:** Tailwind CSS, Shadcn UI  
+- **State & Forms:** Zustand, TanStack Query, React Hook Form, Zod  
 
-### 🖥️ Backend  
-- **Technologies:** Node.js, Express, Prisma, Next.js Server Actions  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
+### 🖥️ Backend
+- **Technologies:** Node.js, Express, Next.js Server Actions, Prisma  
+- **Databases:**  MySQL, MongoDB  
 - **Authentication:** NextAuth v5  
-- **Containers:** Docker  
+- **Containers:** Docker (fundamentals)
 
-### ⚙️ Tools  
+### ⚙️ Tools
 - Git & GitHub  
-- Vercel (Deployment)  
+- Vercel (deployment)  
 - ESLint, Prettier  
-- Figma (UI collaboration)  
+- Figma (UI collaboration)
 
 ---
 
-## 🌍 Languages  
+## 🌍 Languages
 - **Spanish:** Native  
 - **Portuguese:** Intermediate  
-- **English:** Intermediate (technical reading & writing)  
+- **English:** Intermediate – technical reading & writing  
 
 ---
 
-## 📌 Focus Areas  
+## 📌 Focus Areas
 ✔️ Building scalable frontends with clean architecture  
-✔️ Full-stack learning through real projects  
-✔️ API design, authentication & performance optimization  
-✔️ Continuous learning and collaboration  
+✔️ Full-stack learning through real-world projects  
+✔️ API design, authentication, and performance optimization  
+✔️ Continuous learning and team collaboration  
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-### 📝 [Personal Blog – Next.js 14 + Prisma + Server Actions](https://blog.moiseslugo.com/)  
-A complete blog platform with authentication, markdown support, and modern UI using Shadcn + Tailwind CSS.  
-Planning to implement an **AI SDK** that will summarize and answer questions about blog posts.  
+### 🧑‍💻 [Personal Portfolio – Next.js 14 + Prisma + Server Actions](https://moiseslugo.com)  
+A modern frontend portfolio showcasing projects, skills, and experience.  
+Built with Next.js 14, TypeScript, Tailwind CSS, and Prisma, with a strong focus on performance, accessibility, and clean architecture.
 
-### 🛍️ [E-commerce (in progress)](https://gechis.com)  
-A full e-commerce platform built with **Next.js**, **Prisma**, and **dynamic routing**, featuring SEO-friendly URLs and product filters.  
+### 🛍️ [E-commerce Platform (in progress)](https://gechis.com)  
+A full e-commerce platform built with Next.js and Prisma, featuring dynamic routing, SEO-friendly URLs, product filtering, and an admin-oriented architecture.
 
 ---
 
-## ✨ Let’s Connect  
+## ✨ Let’s Connect
 📫 [LinkedIn](https://www.linkedin.com/in/moises-lugo-352b892a4/)  
-🌐 [Blog](https://blog.moiseslugo.com/)  
+🌐 [Portfolio](https://moiseslugo.com)
 
 ---
 
-⭐️ _Always learning, always building._
+⭐️ *Always learning, always building.*
