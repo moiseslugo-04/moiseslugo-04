@@ -1,110 +1,99 @@
+# 👋 Olá, sou Moisés Lugo!
 
-# 👋 Hi, I’m Moisés Lugo
+### Frontend Developer | React • Next.js • TypeScript
 
-🚀 **Junior Full Stack Developer** focused on building modern, scalable, and user-focused web applications.
+Desenvolvedor focado na construção de aplicações web modernas, responsivas
+e bem estruturadas.
 
-I work mainly with **Next.js, React, TypeScript, and Tailwind CSS** on the frontend, while expanding my backend experience with **Python, FastAPI, PostgreSQL, and Pydantic**.
-
-💡 I enjoy building real-world projects where I can work across the stack, from creating responsive and reusable interfaces to designing APIs, handling authentication, validating data, and integrating databases.
-
-I’m continuously improving my skills through hands-on projects, focusing on **clean architecture, maintainable code, problem solving, and best practices**.
-
----
-
-## 🛠️ Tech Stack
-
-### ⚛️ Frontend
-
-- **Core:** Next.js, React, TypeScript, JavaScript
-- **Styling & UI:** Tailwind CSS, shadcn/ui
-- **State Management:** Zustand
-- **Data Fetching:** TanStack Query
-- **Forms & Validation:** React Hook Form, Zod
-
-### 🖥️ Backend
-
-- **Language:** Python
-- **Framework:** FastAPI
-- **Validation:** Pydantic
-- **Database:** PostgreSQL
-- **ORM:** Prisma
-- **Authentication:** NextAuth
-- **API:** REST APIs
-- **Architecture:** Services, Routes, Schemas
-
-### ⚙️ Tools
-
-- Git & GitHub
-- Docker
-- Vercel
-- ESLint
-- Prettier
-- Figma
-- n8n
+Atualmente trabalho principalmente com **React, Next.js e TypeScript**,
+enquanto amplio meus conhecimentos em **Python, APIs e bancos de dados SQL**.
 
 ---
 
-## 🌍 Languages
+## 🚀 Sobre mim
 
-- **Spanish:** Native
-- **Portuguese:** Intermediate
-- **English:** Intermediate – technical reading & writing
+Gosto de transformar ideias em aplicações reais, buscando escrever código
+limpo, organizado e fácil de manter.
 
----
+Tenho interesse principalmente em **desenvolvimento frontend e full stack**,
+com foco em boas práticas, arquitetura e experiência do usuário.
 
-## 📌 Focus Areas
-
-✔️ Building modern and responsive frontend applications  
-✔️ Developing full-stack applications with Next.js and Python  
-✔️ Designing and integrating REST APIs  
-✔️ Authentication and authorization  
-✔️ Database modeling and integration  
-✔️ Clean and maintainable architecture  
-✔️ Performance and user experience  
-✔️ Continuous learning through real-world projects  
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento backend
+com **Python, FastAPI e PostgreSQL**.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tecnologias
 
-### 🧑‍💻 Personal Portfolio
-
-A full-stack developer portfolio built with **Next.js, React, TypeScript, Python, and FastAPI**.
-
-The project includes a dedicated backend API, authentication, data validation, database integration, and a responsive frontend focused on presenting my projects and technical experience.
-
-🔗 [Portfolio](https://moiseslugo.com)
-
----
-
-### 🛍️ Gechis E-commerce
-
-A full-stack e-commerce application built with **Next.js, React, TypeScript, Prisma, and PostgreSQL**.
-
-The project includes authentication, product management, CRUD operations, shopping cart functionality, database integration, and an administrative dashboard.
-
-🔗 [Live Project](https://www.gechis.com/)  
-🔗 [Repository](https://github.com/moiseslugo-04/nextjs-ecommerce)
-
----
-
-### 🌐 Alianza Elite
-
-A responsive and multilingual landing page built with **React, JavaScript, Tailwind CSS, and n8n**.
-
-The project supports **English, Spanish, and Portuguese**, with reusable components, custom hooks, React Context API, localStorage persistence, image galleries, and automated translation workflows.
-
-🔗 [Live Project](https://alianzaelite.netlify.app/)  
-🔗 [Repository](https://github.com/moiseslugo-04/Alianza_Elite)
+<p align="left">
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+</p>
 
 ---
 
-## ✨ Let’s Connect
+## 💻 Projetos
 
-📫 [LinkedIn](https://www.linkedin.com/in/moises-lugo-352b892a4/)  
-🌐 [Portfolio](https://moiseslugo.com)
+### 🛒 Gechis E-commerce
+
+Aplicação full stack desenvolvida com foco em um cenário real de e-commerce.
+
+- 🔐 Autenticação
+- 🛍️ Carrinho de compras
+- 📦 Gerenciamento de produtos
+- 👨‍💼 Dashboard administrativo
+- 🔄 Integração entre frontend e backend
+- 🗄️ Persistência e modelagem de dados
+
+**Stack:** Next.js • React • TypeScript • Python • FastAPI • PostgreSQL
+
+🌐 [Ver projeto](https://www.gechis.com/)
 
 ---
 
-⭐️ *Always learning, always building.*
+## 📚 Atualmente estudando
 
+- Backend com Python e FastAPI
+- APIs REST
+- PostgreSQL e SQL
+- Arquitetura de aplicações
+- Autenticação e autorização
+- Boas práticas de desenvolvimento
+
+---
+
+## 📫 Contato
+
+<p align="left">
+  <a href="https://moisesdev.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/moiseslugo-04">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
