@@ -87,10 +87,10 @@ Aplicação full stack desenvolvida com foco em um cenário real de e-commerce.
 ## 📫 Contato
 
 <p align="left">
-  <a href="https://moisesdev.com">
+  <a href="https://www.moiseslugo.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/moises-lugo-352b892a4/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/moiseslugo-04">
